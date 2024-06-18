@@ -275,6 +275,16 @@ export default function TestmonialSlider() {
             </div>
           </div>
         </SwiperSlide>
+
+
+        <div className="owl-nav">
+          <button type="button" className="owl-prev h1p">
+            <span className="icon-10"></span>
+          </button>
+          <button type="button" className="owl-next h1n">
+            <span className="icon-11"></span>
+          </button>
+        </div>
       </Swiper>
     </>
   );

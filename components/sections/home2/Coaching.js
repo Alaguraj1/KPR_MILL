@@ -4,7 +4,7 @@ import React from 'react';
 export default function Coaching() {
   return (
     <section className="coaching-style-two p_relative sec-pad centred">
-      <div className="pattern-layer" style={{ backgroundImage: 'url(assets/images/shape/shape-12.png)' }}></div>
+      <div className="pattern-layer" style={{ backgroundImage: 'url(assets/images/kprmill/home/fash-bg-img.png)' }}></div>
       <div className="auto-container">
         <div className="sec-title centred mb_50">
           <span className="sub-title" style={{color:"black"}}>COMMODO SED</span>
