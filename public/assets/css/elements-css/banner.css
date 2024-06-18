@@ -308,7 +308,7 @@
 /** banner-style-two **/
 
 .banner-style-two{
-  padding: 254px 0px 260px 0px;
+  padding: 150px 0px 260px 0px;
 }
 
 .banner-style-two:before{
@@ -358,13 +358,13 @@
 }
 
 .banner-style-two .content-box .theme-btn{
-  background: var(--white-color);
-  color: var(--main-color) !important;
+  background: #2482cf;
+  color: #ffffff !important;
 }
 
 .banner-style-two .content-box .theme-btn:hover{
   color: var(--white-color) !important;
-  box-shadow: inset 0 0 0 2em var(--secondary-color);
+  box-shadow: inset 0 0 0 2em #6bb7f6;
 }
 
 .banner-style-two .pattern-layer{
