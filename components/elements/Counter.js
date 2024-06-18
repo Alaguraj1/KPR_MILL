@@ -47,10 +47,13 @@ export default function Counter({ end, duration }) {
     const startCount = () => {
         setCount(0)
     }
+    const formatNumber = num => {
+        return num.toLocaleString('en-IN')
+    }
 
     return (
         <span ref={countRef}>
-            <span>{Math.round(count)}</span>
+            <span>{formatNumber(Math.round(count))}</span>
         </span>
     )
 }

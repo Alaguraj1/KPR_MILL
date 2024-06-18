@@ -1,28 +1,28 @@
 "use client";
 import CountriesSlider from "@/components/slider/CountriesSlider";
 import Link from "next/link";
-import React, {useState} from "react";
+import React, { useState } from "react";
 
 export default function Countries() {
-
   const [activeIndex, setActiveIndex] = useState(4);
   const handleOnClick = (index) => {
     setActiveIndex(index);
   };
 
-
   return (
     <section className="countries-style-three alternat-2 sec-pad">
       <div
         className="pattern-layer"
-        style={{ backgroundImage: "url(assets/images/kprmill/home/fash-bg-img.png)" }}
+        style={{
+          backgroundImage: "url(assets/images/kprmill/home/fash-bg-img.png)",
+        }}
       ></div>
       <div className="auto-container">
         <div className="sec-title mb_60 centred">
-          <span className="sub-title">ELEMENTUM TEMPUS</span>
-          <h2>
-           Fashion From Business
-          </h2>
+          <span className="sub-title" style={{ color: "black" }}>
+            ELEMENTUM TEMPUS
+          </span>
+          <h2>Fashion From Business</h2>
         </div>
         <div className="tabs-box">
           <div className="tab-btn-box mb_50">
@@ -36,7 +36,11 @@ export default function Countries() {
                       }
                     >
                       <h3>
-                        <img src="assets/images/kprmill/home/fas-icon-1.png" alt=""/> Spinning
+                        <img
+                          src="assets/images/kprmill/home/fas-icon-1.png"
+                          alt=""
+                        />{" "}
+                        Spinning
                       </h3>
                     </div>
                   </div>
@@ -49,7 +53,11 @@ export default function Countries() {
                       }
                     >
                       <h3>
-                        <img src="assets/images/kprmill/home/fas-icon-4.png" alt=""/> Knitting
+                        <img
+                          src="assets/images/kprmill/home/fas-icon-4.png"
+                          alt=""
+                        />{" "}
+                        Knitting
                       </h3>
                     </div>
                   </div>
@@ -62,7 +70,11 @@ export default function Countries() {
                       }
                     >
                       <h3>
-                        <img src="assets/images/kprmill/home/fas-icon-3.png" alt=""/> Processing
+                        <img
+                          src="assets/images/kprmill/home/fas-icon-3.png"
+                          alt=""
+                        />{" "}
+                        Processing
                       </h3>
                     </div>
                   </div>
@@ -75,7 +87,11 @@ export default function Countries() {
                       }
                     >
                       <h3>
-                        <img src="assets/images/kprmill/home/fas-icon-2.png" alt=""/> Garments
+                        <img
+                          src="assets/images/kprmill/home/fas-icon-2.png"
+                          alt=""
+                        />{" "}
+                        Garments
                       </h3>
                     </div>
                   </div>
@@ -100,7 +116,10 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/kprmill/home/fas-ic-1.png" alt="" />
+                        <img
+                          src="assets/images/kprmill/home/fas-ic-1.png"
+                          alt=""
+                        />
                       </div>
                       {/* <h3>
                         <Link href="index-3">United Kingdom</Link>
@@ -117,7 +136,10 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/kprmill/home/fas-ic-2.png" alt="" />
+                        <img
+                          src="assets/images/kprmill/home/fas-ic-2.png"
+                          alt=""
+                        />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Bahamas</Link>
@@ -134,7 +156,10 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/kprmill/home/fas-ic-3.png" alt="" />
+                        <img
+                          src="assets/images/kprmill/home/fas-ic-3.png"
+                          alt=""
+                        />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Canada</Link>
@@ -151,7 +176,10 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/kprmill/home/fas-ic-4.png" alt="" />
+                        <img
+                          src="assets/images/kprmill/home/fas-ic-4.png"
+                          alt=""
+                        />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Brazil</Link>

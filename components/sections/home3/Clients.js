@@ -24,26 +24,35 @@ export default function Clients() {
               <div className="text-center">
                 <div className="count-outer">
                   <CounterUp end={370000} />
-                 </div>
-                <p className="count-content">Spindles with a Production capacity<br/> of 1,00,000 MT per annum</p>
+                </div>
+                <p className="count-content">
+                  Spindles with a Production capacity
+                  <br /> of 1,00,000 MT per annum
+                </p>
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-12 count-section">
               <div className="text-center">
-                <div  className="count-outer">
+                <div className="count-outer">
                   <CounterUp end={25000} />
                   <span> MT</span>
                 </div>
-                <p className="count-content">Capacity to Process per annum with<br/> Trendsetter ETP</p>
+                <p className="count-content">
+                  Capacity to Process per annum with
+                  <br /> Trendsetter ETP
+                </p>
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-12 ">
               <div className="text-center">
-                <div  className="count-outer">
+                <div className="count-outer">
                   <CounterUp end={187} />
                   <span> M+</span>
                 </div>
-                <p className="count-content">Largest in India aith a capacity to<br/> produce garments per annum</p>
+                <p className="count-content">
+                  Largest in India aith a capacity to
+                  <br /> produce garments per annum
+                </p>
               </div>
             </div>
             {/* <li className="clients-logo"><Link href="/"><img src="assets/images/clients/clients-4.png" alt="" /></Link></li>
