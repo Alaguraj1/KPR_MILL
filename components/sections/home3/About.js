@@ -9,7 +9,7 @@ export default function About() {
         <div className="pattern-1" style={{ backgroundImage: 'url(assets/images/kprmill/home/about-bg.png)' }}></div>
         <div className="pattern-2" style={{ backgroundImage: 'url(assets/images/kprmill/home/about-bg-right.png)' }}></div>
       </div>
-      <figure className="image-layer"><img src="assets/images/kprmill/home/about-img.png" alt="" style={{width: '80%'}}/></figure>
+      <figure className="image-layer"><img src="assets/images/kprmill/home/about-img.png" alt=""/></figure>
       <div className="auto-container">
         <div className="row clearfix">
           <div className="col-lg-4 col-md-12 col-sm-12 content-column offset-lg-3">
