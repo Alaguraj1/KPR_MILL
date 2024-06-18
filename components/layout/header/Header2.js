@@ -18,7 +18,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
           </div> */}
           <div>
             <ul className="social-links clearfix">
-              <li><Link href="/"><i className="icon-4"></i></Link></li>
+              <li><Link href="https://www.facebook.com/kprmilllimited/"><i className="icon-4"></i></Link></li>
               <li><Link href="/"><i className="icon-5"></i></Link></li>
               <li><Link href="/"><i className="icon-6"></i></Link></li>
               <li><Link href="/"><i className="icon-7"></i></Link></li>

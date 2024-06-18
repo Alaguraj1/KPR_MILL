@@ -190,11 +190,11 @@
 
 .coaching-block-two .inner-box h3 a{
   display: inline-block;
-  color: var(--main-color);
+  color: black;
 }
 
 .coaching-block-two .inner-box h3 a:hover{
-  color: var(--secondary-color);
+  color: rgb(26, 25, 25);
 }
 
 .coaching-style-two .more-content{
