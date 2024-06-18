@@ -5,7 +5,7 @@ export default function Coaching() {
   return (
     <section className="coaching-style-three">
       <div className="sec-title mb_30 mt_30 centred">
-        <span className="sub-title">ELEMENTUM TEMPUS</span>
+        <span className="sub-title" style={{color:"black"}}>ELEMENTUM TEMPUS</span>
         <h2>Products</h2>
       </div>
       <div className="outer-container clearfix">

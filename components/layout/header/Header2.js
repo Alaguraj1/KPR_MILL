@@ -42,7 +42,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
       <div className="auto-container">
         <div className="outer-box">
           <div className="logo-box">
-            <figure className="logo"><Link href="/"><img src="assets/images/logo.png" alt="" style={{width:"80%"}} /></Link></figure>
+            <figure className="logo"><Link href="/"><img src="assets/images/logo.png" alt="" className="banner-logo"  /></Link></figure>
           </div>
           <div className="menu-area clearfix">
             {/* Mobile Navigation Toggler */}

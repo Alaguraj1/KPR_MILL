@@ -6,8 +6,8 @@ export default function News () {
     <section className="news-style-two sec-pad">
     <div className="outer-container">
         <div className="sec-title centred mb_50">
-          <span className="sub-title">Article</span>
-          <h2>Latest Articles</h2>
+          <span className="sub-title" style={{color:"black"}}>DICTUM VARIUS</span>
+          <h2>In The News</h2>
         </div>
                     <div className="content-box">
                         {/*Theme Carousel*/}

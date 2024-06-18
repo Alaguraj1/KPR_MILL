@@ -16,7 +16,7 @@ export default function About() {
             <div className="content_block_six">
               <div className="content-box mr_20">
                 <div className="sec-title mb_20">
-                  <span className="sub-title">LOBORTIS FEUGIAT</span>
+                  <span className="sub-title" style={{color:"black"}}>LOBORTIS FEUGIAT</span>
                   <h2>About the Company</h2>
                 </div>
                 <div className="text mb_30">
@@ -33,7 +33,7 @@ export default function About() {
                   </div>
                 </div>
                 <div className="btn-box">
-                  <Link href="about" className="theme-btn btn-two"><span>Know More</span></Link>
+                  <Link href="about" className="theme-btn btn-three"><span>Know More</span></Link>
                 </div>
               </div>
             </div>

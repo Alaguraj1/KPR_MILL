@@ -69,10 +69,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 6, 2022{" "}
                   </li>
@@ -105,10 +105,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 7, 2022{" "}
                   </li>
@@ -141,10 +141,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 8, 2022{" "}
                   </li>
@@ -177,10 +177,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 6, 2022{" "}
                   </li>
@@ -213,10 +213,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 7, 2022{" "}
                   </li>
@@ -249,10 +249,10 @@ export default function TestmonialSlider() {
               </div>
               <div className="content-box">
                 <ul className="post-info clearfix">
-                  <li>
+                  {/* <li>
                     <i className="icon-27"></i>
                     <Link href="blog-details">By author</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="icon-28"></i>Feb 8, 2022{" "}
                   </li>

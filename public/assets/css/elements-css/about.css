@@ -194,6 +194,7 @@
 
 .content_block_six .content-box p{
   font-size: 18px;
+  color: black;
 }
 
 .content_block_six .content-box .inner-box .single-item{
@@ -219,6 +220,7 @@
   line-height: 28px;
   font-weight: 500;
   font-family: var(--heebo);
+  color: black;
 }
 
 .about-style-three .image-inner{

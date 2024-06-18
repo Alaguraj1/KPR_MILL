@@ -307,6 +307,10 @@
 
 /** banner-style-two **/
 
+.banner-logo{
+  width: 80%;
+}
+
 .banner-style-two{
   padding: 150px 0px 260px 0px;
 }

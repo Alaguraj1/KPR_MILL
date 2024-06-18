@@ -7,8 +7,8 @@ export default function Coaching() {
       <div className="pattern-layer" style={{ backgroundImage: 'url(assets/images/shape/shape-12.png)' }}></div>
       <div className="auto-container">
         <div className="sec-title centred mb_50">
-          <span className="sub-title">OUR COACHING</span>
-          <h2>Excel's successful Instructing <br />Center is migrate.</h2>
+          <span className="sub-title" style={{color:"black"}}>COMMODO SED</span>
+          <h2>Awards and Accolades</h2>
         </div>
         <div className="row clearfix">
                     <div className="col-lg-3 col-md-6 col-sm-12 coaching-block">
