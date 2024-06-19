@@ -312,7 +312,7 @@
 }
 
 .banner-style-two{
-  padding: 150px 0px 260px 0px;
+  padding: 100px 0px 260px 0px;
 }
 
 .banner-style-two:before{
@@ -344,8 +344,8 @@
 
 .banner-style-two .content-box h2{
   display: block;
-  font-size: 80px;
-  line-height: 90px;
+  font-size: 65px;
+  line-height: 75px;
   color: var(--white-color);
   font-weight: 700;
   margin-bottom: 20px;

@@ -5,7 +5,7 @@ export default function Features() {
         <section className="feature-section alternat-3">
       <div className="auto-container">
         <div className="inner-container">
-          <div className="shape-2" style={{ backgroundImage: 'url(assets/images/shape/shape-41.png)' }}></div>
+          {/* <div className="shape-2" style={{ backgroundImage: 'url(assets/images/shape/shape-41.png)' }}></div> */}
           <div className="row clearfix">
             <div className="col-lg-3 col-md-6 col-sm-12 feature-block">
               <div className="feature-block-one">
@@ -39,7 +39,7 @@ export default function Features() {
                 <div className="inner-box">
                   <div className="icon-box"><img src="assets/images/kprmill/home/icon-4.png" alt="" /></div>
                   <h3><Link href="/">Certifications</Link></h3>
-                  <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet.</p>
+                  <p>Sed gravida nisl a porta tincidunt. an Integer aliquam nisi sit amet.</p>
                 </div>
               </div>
             </div>

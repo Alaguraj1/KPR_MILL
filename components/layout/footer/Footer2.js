@@ -20,7 +20,7 @@ export default function Footer2() {
                       sit amet magna suscipit, fermentum mattis erat
                       rutrum.Porta semper lacus cursus.
                     </p>
-                    <Link href="index-2">Read More</Link>
+                    {/* <Link href="index-2">Read More</Link> */}
                   </div>
                 </div>
               </div>

@@ -5,14 +5,14 @@ export default function Help() {
   return (
     <section className="help-section p_relative">
       <div className="pattern-layer">
-        <div
+        {/* <div
           className="pattern-1"
           style={{ backgroundImage: "url(assets/images/shape/shape-45.png)" }}
         ></div>
         <div
           className="pattern-2"
           style={{ backgroundImage: "url(assets/images/shape/shape-46.png)" }}
-        ></div>
+        ></div> */}
         {/* <div className="pattern-3" style={{ backgroundImage: 'url(assets/images/shape/shape-47.png)' }}></div> */}
       </div>
       <div className="auto-container">

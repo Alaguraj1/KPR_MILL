@@ -206,7 +206,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-14.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-1.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Bahamas</Link>
@@ -223,7 +223,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-13.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-2.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">United Kingdom</Link>
@@ -240,7 +240,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-15.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-3.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Canada</Link>
@@ -257,7 +257,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-16.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-4.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Brazil</Link>
@@ -284,7 +284,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-15.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-1.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Canada</Link>
@@ -301,7 +301,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-13.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-2.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">United Kingdom</Link>
@@ -318,7 +318,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-14.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-3.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Bahamas</Link>
@@ -335,7 +335,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-16.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-4.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Brazil</Link>
@@ -362,7 +362,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-13.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-1.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">United Kingdom</Link>
@@ -379,7 +379,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-16.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-2.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Brazil</Link>
@@ -396,7 +396,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-14.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-3.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Bahamas</Link>
@@ -413,7 +413,7 @@ export default function Countries() {
                   <div className="countries-block-four">
                     <div className="inner-box">
                       <div className="flag">
-                        <img src="assets/images/icons/flag-15.png" alt="" />
+                        <img src="assets/images/kprmill/home/fas-ic-4.png" alt="" />
                       </div>
                       {/* <h3>
                         <Link href="index-3">Canada</Link>

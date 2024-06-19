@@ -13,9 +13,9 @@ export default function Menu() {
             </ul> */}
 
       <ul className="navigation clearfix">
-        <li>
+        {/* <li>
           <Link href="/">Home</Link>
-        </li>
+        </li> */}
         {/* <li className="dropdown"><Link href="/">Home</Link>
                     <ul>
                         <li><Link href="/">Home Page 01</Link></li>
@@ -131,6 +131,18 @@ export default function Menu() {
           </ul>
         </li>
         {/* Projects */}
+
+        <li className="dropdown">
+          <Link href="/">Investors</Link>
+          <ul>
+            <li>
+              <Link href="/blog">Blog</Link>
+            </li>
+            <li>
+              <Link href="/blog-details">Blog Details</Link>
+            </li>
+          </ul>
+        </li>
 
         {/* Blog */}
         <li className="dropdown">
