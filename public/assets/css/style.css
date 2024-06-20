@@ -7893,3 +7893,44 @@ div#mCSB_1_container{
 
 
 }
+
+.vertical-timeline::before {
+  background: #022b66 !important;
+}
+
+
+.vertical-timeline-element-content .vertical-timeline-element-date{
+  opacity: 1 !important;
+}
+
+.date-line {
+  font-size: 30px;
+  font-weight: bold;
+  color: #022b66 !important;
+}
+
+
+
+.first-line {
+  font-size: 20px; /* Font size for the first line of description */
+  font-weight: bold; /* Optionally adjust font weight */
+  margin-top: 10px;
+  color: #022b66 !important;
+}
+
+.second-line {
+  font-size: 16px; /* Font size for the second line of description */
+  color: #666; /* Optionally adjust color */
+  margin-top: 10px;
+}
+
+
+.animated-slide-in {
+  opacity: 0;
+  transform: translateY(50px);
+  animation: slide-in 0.5s forwards;
+}
+
+
+
+
