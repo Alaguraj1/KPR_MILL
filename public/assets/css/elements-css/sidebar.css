@@ -1,30 +1,29 @@
-
-.coaching-sidebar{
+.coaching-sidebar {
   position: relative;
   display: block;
 }
 
-.default-sidebar .category-widget{
+.default-sidebar .category-widget {
   position: relative;
   display: block;
   background: rgba(3, 43, 102, 0.1);
   padding: 20px;
 }
 
-.default-sidebar .category-widget .category-list{
+.default-sidebar .category-widget .category-list {
   position: relative;
   background: var(--main-color);
   padding: 45px 35px;
 }
 
-.default-sidebar .category-widget .category-list li{
+.default-sidebar .category-widget .category-list li {
   position: relative;
   display: block;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   padding: 17px 0px;
 }
 
-.default-sidebar .category-widget .category-list li a{
+.default-sidebar .category-widget .category-list li a {
   position: relative;
   display: block;
   font-size: 18px;
@@ -34,11 +33,25 @@
 }
 
 .default-sidebar .category-widget .category-list li a:hover,
-.default-sidebar .category-widget .category-list li a.current{
+.default-sidebar .category-widget .category-list li a.current {
   color: var(--secondary-color);
 }
 
-.default-sidebar .category-widget .category-list li a:before{
+.about-company-section2-link {
+  position: relative;
+  display: block;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: var(--white-color);
+  text-align: center;
+}
+
+.default-sidebar .category-widget .category-list .about-company-section2-link a:before {
+  content: "" !important;
+}
+
+.default-sidebar .category-widget .category-list li a:before {
   position: absolute;
   content: '\e93d';
   font-family: 'icomoon';
@@ -46,26 +59,26 @@
   right: 0px;
 }
 
-.default-sidebar .sidebar-widget{
+.default-sidebar .sidebar-widget {
   margin-bottom: 40px;
 }
 
-.default-sidebar .sidebar-widget:last-child{
+.default-sidebar .sidebar-widget:last-child {
   margin-bottom: 0px;
 }
 
-.default-sidebar .travel-widget{
+.default-sidebar .travel-widget {
   position: relative;
   display: block;
   background: rgba(3, 43, 102, 0.1);
   padding: 20px;
 }
 
-.default-sidebar .travel-widget img{
+.default-sidebar .travel-widget img {
   width: 100%;
 }
 
-.default-sidebar .travel-widget .content-box{
+.default-sidebar .travel-widget .content-box {
   position: absolute;
   left: 0px;
   top: 0px;
@@ -74,7 +87,7 @@
   background: rgba(3, 43, 102, 0.9);
 }
 
-.default-sidebar .travel-widget .content-box h3{
+.default-sidebar .travel-widget .content-box h3 {
   display: block;
   font-size: 24px;
   line-height: 34px;
@@ -83,7 +96,7 @@
   margin-bottom: 25px;
 }
 
-.default-sidebar .travel-widget .content-box .list-item li{
+.default-sidebar .travel-widget .content-box .list-item li {
   position: relative;
   display: block;
   font-size: 14px;
@@ -93,11 +106,11 @@
   padding-left: 26px;
 }
 
-.default-sidebar .travel-widget .content-box .list-item li:last-child{
+.default-sidebar .travel-widget .content-box .list-item li:last-child {
   margin-bottom: 0px;
 }
 
-.default-sidebar .travel-widget .content-box .list-item li:before{
+.default-sidebar .travel-widget .content-box .list-item li:before {
   position: absolute;
   content: '\e93e';
   font-family: 'icomoon';
@@ -105,20 +118,20 @@
   top: 0px;
 }
 
-.default-sidebar .download-widget{
+.default-sidebar .download-widget {
   position: relative;
   display: block;
   background: rgba(3, 43, 102, 0.1);
   padding: 20px;
 }
 
-.default-sidebar .download-widget .widget-content{
+.default-sidebar .download-widget .widget-content {
   position: relative;
   background: var(--main-color);
   padding: 40px 45px 39px 45px;
 }
 
-.default-sidebar .download-widget h3{
+.default-sidebar .download-widget h3 {
   display: block;
   font-size: 24px;
   line-height: 34px;
@@ -127,18 +140,18 @@
   margin-bottom: 15px;
 }
 
-.default-sidebar .download-widget .download-list li{
+.default-sidebar .download-widget .download-list li {
   position: relative;
   display: inline-block;
   float: left;
   margin-right: 15px;
 }
 
-.default-sidebar .download-widget .download-list li:last-child{
+.default-sidebar .download-widget .download-list li:last-child {
   margin: 0px;
 }
 
-.default-sidebar .download-widget .download-list li a{
+.default-sidebar .download-widget .download-list li a {
   position: relative;
   display: inline-block;
   width: 145px;
@@ -148,11 +161,11 @@
   transition: all 500ms ease;
 }
 
-.default-sidebar .download-widget .download-list li a:hover{
+.default-sidebar .download-widget .download-list li a:hover {
   border-color: #fff;
 }
 
-.default-sidebar .download-widget .download-list li a i{
+.default-sidebar .download-widget .download-list li a i {
   position: relative;
   display: inline-block;
   font-size: 50px;
@@ -161,11 +174,11 @@
   transition: all 500ms ease;
 }
 
-.default-sidebar .download-widget .download-list li a:hover i{
+.default-sidebar .download-widget .download-list li a:hover i {
   color: var(--white-color);
 }
 
-.default-sidebar .download-widget .download-list li a p{
+.default-sidebar .download-widget .download-list li a p {
   display: block;
   font-size: 14px;
   line-height: 24px;
@@ -174,7 +187,7 @@
   margin-bottom: 5px;
 }
 
-.default-sidebar .download-widget .download-list li a span{
+.default-sidebar .download-widget .download-list li a span {
   position: relative;
   display: inline-block;
   font-size: 14px;
@@ -185,30 +198,30 @@
   padding: 0px 17px;
 }
 
-.default-sidebar .download-widget .icon-shape{
+.default-sidebar .download-widget .icon-shape {
   position: absolute;
   right: 30px;
   bottom: 26px;
 }
 
-.blog-sidebar{
+.blog-sidebar {
   position: relative;
   display: block;
 }
 
-.blog-sidebar .sidebar-widget{
+.blog-sidebar .sidebar-widget {
   background: #F7F7F7;
   border-radius: 10px;
   padding: 40px 35px;
 }
 
-.blog-sidebar .widget-title{
+.blog-sidebar .widget-title {
   position: relative;
   display: block;
   margin-bottom: 20px;
 }
 
-.blog-sidebar .widget-title h3{
+.blog-sidebar .widget-title h3 {
   position: relative;
   display: block;
   font-size: 24px;
@@ -216,12 +229,12 @@
   font-weight: 700;
 }
 
-.blog-sidebar .search-widget .search-form .form-group{
+.blog-sidebar .search-widget .search-form .form-group {
   position: relative;
   margin-bottom: 0px;
 }
 
-.blog-sidebar .search-widget .search-form .form-group input[type='search']{
+.blog-sidebar .search-widget .search-form .form-group input[type='search'] {
   position: relative;
   display: block;
   width: 100%;
@@ -236,11 +249,11 @@
   transition: all 500ms ease;
 }
 
-.blog-sidebar .search-widget .search-form .form-group input:focus{
+.blog-sidebar .search-widget .search-form .form-group input:focus {
   border-color: var(--main-color);
 }
 
-.blog-sidebar .search-widget .search-form .form-group button{
+.blog-sidebar .search-widget .search-form .form-group button {
   position: absolute;
   top: 13px;
   right: 15px;
@@ -250,17 +263,17 @@
   transition: all 500ms ease;
 }
 
-.blog-sidebar .category-widget .category-list-two li{
+.blog-sidebar .category-widget .category-list-two li {
   position: relative;
   display: block;
   margin-bottom: 10px;
 }
 
-.blog-sidebar .category-widget .category-list-two li:last-child{
+.blog-sidebar .category-widget .category-list-two li:last-child {
   margin-bottom: 0px;
 }
 
-.blog-sidebar .category-widget .category-list-two li a{
+.blog-sidebar .category-widget .category-list-two li a {
   position: relative;
   display: block;
   font-size: 16px;
@@ -272,7 +285,7 @@
   padding: 11px 30px 10px 50px;
 }
 
-.blog-sidebar .category-widget .category-list-two li a:hover{
+.blog-sidebar .category-widget .category-list-two li a:hover {
   color: var(--white-color);
   background: var(--main-color);
   border-color: var(--main-color);
@@ -296,12 +309,12 @@
   transition: all 500ms ease;
 }
 
-.blog-sidebar .category-widget .category-list-two li a:hover:before{
+.blog-sidebar .category-widget .category-list-two li a:hover:before {
   color: var(--white-color);
   border-color: var(--white-color);
 }
 
-.blog-sidebar .post-widget .post{
+.blog-sidebar .post-widget .post {
   position: relative;
   display: block;
   background: #FFFFFF;
@@ -313,16 +326,16 @@
   transition: all 500ms ease;
 }
 
-.blog-sidebar .post-widget .post:last-child{
+.blog-sidebar .post-widget .post:last-child {
   margin-bottom: 0px;
 }
 
-.blog-sidebar .post-widget .post:hover{
+.blog-sidebar .post-widget .post:hover {
   background: var(--main-color);
   border-color: var(--main-color);
 }
 
-.blog-sidebar .post-widget .post .post-thumb{
+.blog-sidebar .post-widget .post .post-thumb {
   position: absolute;
   left: 7px;
   top: 10px;
@@ -331,28 +344,28 @@
   border-radius: 10px;
 }
 
-.blog-sidebar .post-widget .post .post-thumb img{
+.blog-sidebar .post-widget .post .post-thumb img {
   width: 100%;
   border-radius: 10px;
 }
 
-.blog-sidebar .post-widget .post h5{
+.blog-sidebar .post-widget .post h5 {
   display: block;
   font-size: 18px;
   line-height: 30px;
   font-weight: 500;
 }
 
-.blog-sidebar .post-widget .post h5 a{
+.blog-sidebar .post-widget .post h5 a {
   display: inline-block;
   color: var(--main-color);
 }
 
-.blog-sidebar .post-widget .post h5 a:hover{
+.blog-sidebar .post-widget .post h5 a:hover {
   text-decoration: underline;
 }
 
-.blog-sidebar .post-widget .post .post-date{
+.blog-sidebar .post-widget .post .post-date {
   position: relative;
   display: block;
   font-size: 14px;
@@ -361,38 +374,38 @@
 }
 
 .blog-sidebar .post-widget .post:hover h5 a,
-.blog-sidebar .post-widget .post:hover .post-date{
+.blog-sidebar .post-widget .post:hover .post-date {
   color: var(--white-color);
 }
 
-.blog-sidebar .gallery-widget .image-list{
+.blog-sidebar .gallery-widget .image-list {
   position: relative;
   margin: 0px -5px;
 }
 
-.blog-sidebar .gallery-widget .image-list li{
+.blog-sidebar .gallery-widget .image-list li {
   position: relative;
   display: inline-block;
   float: left;
   margin: 0px 5px 20px 5px;
 }
 
-.blog-sidebar .gallery-widget .image-list li .image-box{
+.blog-sidebar .gallery-widget .image-list li .image-box {
   position: relative;
   display: block;
   width: 85px;
   height: 85px;
 }
 
-.blog-sidebar .gallery-widget .image-list li .image-box img{
+.blog-sidebar .gallery-widget .image-list li .image-box img {
   width: 100%;
 }
 
-.blog-sidebar .gallery-widget{
+.blog-sidebar .gallery-widget {
   padding-bottom: 30px;
 }
 
-.blog-sidebar .gallery-widget .widget-content:before{
+.blog-sidebar .gallery-widget .widget-content:before {
   position: absolute;
   content: '';
   background: var(--white-color);
@@ -404,7 +417,7 @@
   top: -10px;
 }
 
-.blog-sidebar .gallery-widget .widget-content:after{
+.blog-sidebar .gallery-widget .widget-content:after {
   position: absolute;
   content: '';
   background: var(--white-color);
@@ -417,21 +430,21 @@
   z-index: -1;
 }
 
-.blog-sidebar .gallery-widget .widget-content{
+.blog-sidebar .gallery-widget .widget-content {
   z-index: 1;
 }
 
-.blog-sidebar .gallery-widget .widget-title{
+.blog-sidebar .gallery-widget .widget-title {
   margin-bottom: 30px;
 }
 
-.blog-sidebar .travel-widget{
+.blog-sidebar .travel-widget {
   background: rgba(3, 43, 102, 0.1);
   padding: 20px;
   border-radius: 0px;
 }
 
-.blog-sidebar .tags-widget .tags-list li{
+.blog-sidebar .tags-widget .tags-list li {
   position: relative;
   display: inline-block;
   float: left;
@@ -439,7 +452,7 @@
   margin-bottom: 10px;
 }
 
-.blog-sidebar .tags-widget .tags-list li a{
+.blog-sidebar .tags-widget .tags-list li a {
   position: relative;
   display: inline-block;
   font-size: 16px;
@@ -450,37 +463,11 @@
   text-align: center;
 }
 
-.blog-sidebar .tags-widget .tags-list li a:hover{
+.blog-sidebar .tags-widget .tags-list li a:hover {
   background: var(--main-color);
   color: var(--white-color);
 }
 
-.blog-sidebar .tags-widget{
+.blog-sidebar .tags-widget {
   padding-bottom: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

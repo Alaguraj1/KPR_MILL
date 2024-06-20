@@ -151,17 +151,17 @@
 /** dream-style-three **/
 
 .dream-style-three{
-  padding: 145px 0px;
+  padding: 60px 0px;
 }
 
 .dream-style-three .content_block_two .content-box .text p{
   color: #07407D;
   font-size: 18px;
 }
-
+/* 
 .dream-style-three .content_block_two .content-box .text{
   max-width: 574px;
-}
+} */
 
 .dream-style-three .content_block_two .content-box .list-item li a{
   color: #07407D;
