@@ -44,6 +44,9 @@ export default function Menu() {
               <Link href="/about-us">About</Link>
             </li>
             <li>
+              <Link href="/evolution">Evolution</Link>
+            </li>
+            <li>
               <Link href="/faq">Faq's</Link>
             </li>
             <li>
