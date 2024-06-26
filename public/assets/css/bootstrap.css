@@ -8873,7 +8873,7 @@ textarea.form-control-lg {
     text-align: center !important;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .float-md-start {
     float: left !important;
   }

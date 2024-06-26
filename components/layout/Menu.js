@@ -27,7 +27,7 @@ export default function Menu() {
                     </ul>
                 </li> */}
         <li className="dropdown">
-          <Link href="/">About</Link>
+          <Link href="/about-us">About</Link>
           <ul>
             <li className="dropdown">
               <Link href="/">Team</Link>
@@ -41,10 +41,25 @@ export default function Menu() {
               </ul>
             </li>
             <li>
-              <Link href="/about-us">About</Link>
+              <Link href="/about-us">About The Company</Link>
+            </li>
+            <li>
+              <Link href="/vision-mission">Vision & Mission</Link>
             </li>
             <li>
               <Link href="/evolution">Evolution</Link>
+            </li>
+            <li>
+              <Link href="/the-board">The Board</Link>
+            </li>
+            <li>
+              <Link href="/production-facilities">Production Facilities</Link>
+            </li>
+            <li>
+              <Link href="/awards">Awards</Link>
+            </li>
+            <li>
+              <Link href="/certifications">Certifications</Link>
             </li>
             <li>
               <Link href="/faq">Faq's</Link>

@@ -297,7 +297,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="coaching-details p_relative">
+        <section className="coaching-details p_relative" style={{padding:'0px'}}>
           <div className="auto-container">
             <div className="sec-title  mb_30 centred">
               <span className="sub-title" style={{ color: "black" }}>
@@ -475,7 +475,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="dream-style-three p_relative">
+        <section className="dream-style-three p_relative"  style={{paddingTop:'0px'}}>
           <div className="auto-container">
             <div className="row clearfix">
               <div className="col-lg-6 col-md-12 col-sm-12 content-column">

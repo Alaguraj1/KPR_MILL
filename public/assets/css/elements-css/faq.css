@@ -1,11 +1,10 @@
 
 .faq-section{
   position: relative;
+  padding:60px 0px
 }
 
-.faq-section .sec-title{
-  max-width: 570px;
-}
+
 
 .faq-section .sec-title p{
   margin-top: 21px;
