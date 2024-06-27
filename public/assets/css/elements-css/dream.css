@@ -147,6 +147,9 @@
   background-repeat: no-repeat;
 }
 
+.coaching-section{
+  padding: 60px 0px;
+}
 
 /** dream-style-three **/
 
@@ -156,7 +159,7 @@
 
 .dream-style-three .content_block_two .content-box .text p{
   color: #07407D;
-  font-size: 18px;
+  font-size: 16px;
 }
 /* 
 .dream-style-three .content_block_two .content-box .text{
@@ -205,7 +208,7 @@
 
 .awards-style-three .content_block_two .content-box .text p{
   color: #07407D;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -252,7 +255,7 @@
 
 .certification-style-three .content_block_two .content-box .text p{
   color: #07407D;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 

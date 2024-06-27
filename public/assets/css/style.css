@@ -3766,6 +3766,10 @@
      padding: 30px 0px;
    }
 
+   .coaching-section{
+    padding: 30px;
+   }
+
    .coaching-details,
    .countries-details {
      padding: 30px 0px;
@@ -8026,4 +8030,8 @@
    opacity: 0;
    transform: translateY(50px);
    animation: slide-in 0.5s forwards;
+ }
+
+ .gallery-row{
+  --bs-gutter-y: 1.5rem;
  }

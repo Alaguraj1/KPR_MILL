@@ -70,8 +70,20 @@ export default function Menu() {
           </ul>
         </li>
         <li className="dropdown">
-          <Link href="/">Products</Link>
+          <Link href="/products">Products</Link>
           <ul>
+          <li>
+              <Link href="/yarn">Yarn</Link>
+            </li>
+            <li>
+              <Link href="/fabric">Fabric</Link>
+            </li>
+            <li>
+              <Link href="/garment">Garments</Link>
+            </li>
+            <li>
+              <Link href="/sugar">Sugar</Link>
+            </li>
             <li>
               <Link href="/coaching">Coaching Overview</Link>
             </li>
@@ -123,7 +135,7 @@ export default function Menu() {
           </ul>
         </li>
         <li className="dropdown">
-          <Link href="/">Infrastructure</Link>
+          <Link href="/infrastructure">Infrastructure</Link>
           <ul>
             <li>
               <Link href="/visa">Visa Overview</Link>

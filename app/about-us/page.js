@@ -278,11 +278,11 @@ export default function Home() {
                         </Link>
                       </li>
                     </ul> */}
-                    <div className="btn-box">
+                    {/* <div className="btn-box">
                       <Link href="coaching" className="theme-btn">
                         <span>More Details</span>
                       </Link>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -456,11 +456,11 @@ export default function Home() {
                       </ul>
                     </div>
 
-                    <div className="btn-box">
+                    {/* <div className="btn-box">
                       <Link href="coaching" className="theme-btn">
                         <span>More Details</span>
                       </Link>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
